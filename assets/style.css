@@ -1,0 +1,20 @@
+
+.main-nav {
+    width: 20px;
+    height: 30px;
+    display: block;
+    
+    
+}
+
+.main-nav-list {
+    height: 30px;
+    width: 200px;
+}
+
+.item {
+    display: inline-block;
+    
+}
+
+

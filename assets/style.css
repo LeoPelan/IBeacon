@@ -42,7 +42,6 @@ body {
     height: 100%;
 }
 
-<<<<<<< HEAD
 .miniTitle
 {
     background-color: black;
@@ -92,7 +91,7 @@ body {
     float: left;
     font-size: 40px;
 }
-=======
+
 .slogan {
     display: inline-block;
     
@@ -141,4 +140,4 @@ body {
 .visages2 {
     padding-left: 27%;
 }
->>>>>>> 3abc5219c9576a431a746d9840981338c8f35da2
+

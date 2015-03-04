@@ -16,20 +16,20 @@ body {
     margin-top: 5%;
     height: 3%;
     width: 60%;
-    float: left;
+    float: right;
 }
 
 .main-nav-list {
+    margin-right: 15%;
     height: 3%;
     text-decoration: none;
-    float: left;
+    float: right;
 }
 
 .item {
     margin: auto;
-    padding-right: .3%;
-    margin-left: 5%;
-    float: left;
+    margin-right: 35px;
+    float: right;
     
 }
 
@@ -42,7 +42,7 @@ body {
 }
 
 .imgHead {
-    height: 90%;
+    width: 35%;
     float: left;
 }
 

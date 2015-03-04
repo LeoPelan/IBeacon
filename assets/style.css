@@ -13,21 +13,22 @@ body {
 }
 
 .main-nav {
-    margin-top: 50px;
-    height: 30px;
+    margin-top: 5%;
+    height: 3%;
     width: 60%;
     float: left;
 }
 
 .main-nav-list {
-    height: 30px;
+    height: 3%;
     text-decoration: none;
     float: left;
 }
 
 .item {
-    padding: 5px;
-    margin-right: 40px;
+    margin: auto;
+    padding-right: .3%;
+    margin-left: 5%;
     float: left;
     
 }
@@ -36,8 +37,8 @@ body {
     width: 100%;
     height: 200px;
     background-color: #e6e6e6;
-    font-family: Ebrima;
     font-size: 30px;
+    overflow: hidden;
 }
 
 .imgHead {

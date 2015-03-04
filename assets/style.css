@@ -31,14 +31,15 @@ a:active {
 }
 
 .main-nav-list {
+    display: inline-block;
     height: 30px;
-    width: 500px;
+    width: 400px;
     text-decoration: none;
 }
 
 .item {
     display: inline-block;
-    margin-right: 20px;
+    padding: 5px;
     
 }
 

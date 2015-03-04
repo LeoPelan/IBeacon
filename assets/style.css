@@ -47,3 +47,15 @@ body {
     display: inline-block;
     
 }
+
+.iBKS {
+    width: 45%;
+}
+
+.grandRond {
+    overflow: hidden;
+    -webkit-border-radius: 200px;
+    -moz-border-radius: 200px;
+    border-radius: 200px;
+    background-image: url('assets/images/iBKS.jpg');
+}

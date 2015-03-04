@@ -1,3 +1,26 @@
+/* unvisited link */
+a:link {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+    text-decoration: none;
+}
 
 .main-nav {
     width: 20px;
@@ -9,11 +32,13 @@
 
 .main-nav-list {
     height: 30px;
-    width: 200px;
+    width: 500px;
+    text-decoration: none;
 }
 
 .item {
     display: inline-block;
+    margin-right: 20px;
     
 }
 

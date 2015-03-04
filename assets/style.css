@@ -13,7 +13,9 @@ body {
 }
 
 .main-nav {
+    margin-top: 50px;
     height: 30px;
+    width: 60%;
     float: left;
 }
 
@@ -25,6 +27,7 @@ body {
 
 .item {
     padding: 5px;
+    margin-right: 40px;
     float: left;
     
 }
@@ -34,7 +37,7 @@ body {
     height: 200px;
     background-color: #e6e6e6;
     font-family: Ebrima;
-    font-size: 40px;
+    font-size: 30px;
 }
 
 .imgHead {

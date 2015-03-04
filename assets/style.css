@@ -42,6 +42,7 @@ body {
     height: 100%;
 }
 
+<<<<<<< HEAD
 .miniTitle
 {
     background-color: black;
@@ -91,3 +92,53 @@ body {
     float: left;
     font-size: 40px;
 }
+=======
+.slogan {
+    display: inline-block;
+    
+}
+
+.logistique {
+    padding-top: 10%;
+    padding-bottom: 10%;
+    width: 50%;
+    float: right;
+}
+
+#societe, #produit, #contact {
+    margin-top: 10px;
+}
+
+.equipe {
+    width: 50%;
+    float: right;
+}
+
+.trombi {
+    width: 100%;
+}
+
+.trombidiv {
+    float: left;
+    width: 20%;
+    margin-left: 5%;
+    margin-top: 5px;
+}
+
+.name{
+    margin: auto;
+    width: 120px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 3px;
+}
+
+.visages {
+    padding-left: 17%;
+}
+
+.visages2 {
+    padding-left: 27%;
+}
+>>>>>>> 3abc5219c9576a431a746d9840981338c8f35da2

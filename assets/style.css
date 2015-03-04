@@ -65,16 +65,24 @@ body {
 
 .trombi {
     width: 100%;
+    background-color: white;
 }
 
 .trombidiv {
+    background-color: white;
     float: left;
     width: 20%;
     margin-left: 5%;
     margin-top: 5px;
+    text-align: center;
+}
+
+#market, #design, #dev {
+    overflow: hidden;
 }
 
 .name{
+    display: block;
     margin: auto;
     width: 120px;
     text-align: center;
@@ -85,8 +93,10 @@ body {
 
 .visages {
     padding-left: 17%;
+    background-color: white;
 }
 
 .visages2 {
     padding-left: 27%;
+    background-color: white;
 }

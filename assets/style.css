@@ -7,6 +7,11 @@ body {
     margin: 0px;
 }
 
+.font-Ebrima {
+    font-family: Ebrima;
+    src: url('assets/fonts/ebrima.ttf');
+}
+
 .main-nav {
     width: 20px;
     height: 30px;

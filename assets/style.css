@@ -94,6 +94,7 @@ body {
 .visages {
     padding-left: 17%;
     background-color: white;
+    display: block;
 }
 
 .visages2 {

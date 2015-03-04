@@ -42,6 +42,57 @@ body {
     height: 100%;
 }
 
+<<<<<<< HEAD
+.miniTitle
+{
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    border: 5px solid black;
+}
+
+.size
+{
+    width: 100%;
+    height: auto; 
+    margin-top: 5%;
+}
+ .txt
+{
+    font-size: 30px;
+}
+
+.img
+{
+    width: 75%;
+    height: auto; 
+}
+
+.right
+{
+    width: 30%;
+    height: auto;
+    float: right;
+}
+
+.center 
+{
+    width: 30%;
+    height: auto;
+    float: left;
+}
+
+.left
+{
+    font-weight: bolder;
+    text-align: center;
+    width: 40%;
+    height: auto;
+    float: left;
+    font-size: 40px;
+}
+=======
 .slogan {
     display: inline-block;
     

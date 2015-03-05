@@ -38,9 +38,18 @@ body {
     position: fixed;
 }
 
+#header {
+    
+}
+
 .imgHead {
     width: 35%;
     float: left;
+}
+.imgHead2 {
+    display: block;
+    width: 55%;
+    clear: left;
 }
 
 
@@ -169,5 +178,29 @@ body {
 }
 
 .visages2 {
+<<<<<<< HEAD
     margin-left: 25%;
+=======
+    padding-left: 27%;
+}
+
+.footer {
+    padding-top: 35px;
+    width: 100%;
+    background-color: #e6e6e6;
+    overflow: hidden;
+    font-size: 150%;
+}
+
+.backup {
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+    font-size: 80%;
+    color: #f2612a;
+}
+
+.blockfooter {
+    height: 100%;
+    width: 500px;
 }

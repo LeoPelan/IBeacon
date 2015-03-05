@@ -198,7 +198,7 @@ a:hover {
 
 #concept, #societe, #produit, #contact {
     margin-top: 0%;
-    margin-bottom: 100%;
+    margin-bottom: 7%;
     display: block;
     overflow: hidden;
 }

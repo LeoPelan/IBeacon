@@ -1,31 +1,27 @@
- wa:link, a:visited, a:hover, a:active 
-{
+a:link, a:visited, a:hover, a:active {
     color: #000000;
     text-decoration: none;
 }
 
-body 
-{
+body {
 
 }
 
-#page  
-{
+#page {
         margin: 0 auto; 
         width: 100%;
         min-width: 1024px;
         max-width: 1280px;
 }
 
-.header 
-{
+.header {
     position: absolute;
     top: 0;
     left: 0;
     right: 0;
     width: 100%;
     height: 15%;
-    background-color : #E6EFFD;
+    background-color : #e6e6e6;
     border-top: solid black 1px;
     padding: 5px;
     padding-left: 5px;
@@ -38,46 +34,39 @@ body
     filter:progid:DXImageTransform.Microsoft.Shadow(color='#000000', Direction=200, Strength=12);
     zoom: 1;
 }
-.header div 
-{
+.header div {
     padding-left: 20px;
     padding-top: 0;
 }
  
-body>.header 
-{
+body>.header {
     position:fixed;
 }
  
-.header div 
-{
+.header div {
     padding-left: 20px;
     padding-top: 0;
 }
 
 
-.logo 
-{
+.logo {
     width: 15%;
     height: 100%;
     float: left;
 }
 
-.font-Ebrima 
-{
+.font-Ebrima {
     font-family: Ebrima;
     src: url('assets/fonts/ebrima.ttf');
 }
 
-.main-nav 
-{
+.main-nav {
     width: 85%;
     height: 100%;
     float: right;
 }
 
-.item 
-{
+.item {
     margin-top: 2.5%;
     margin-bottom: 97.5%;
     height: 100%;
@@ -86,32 +75,27 @@ body>.header
     text-align: center;
 }
 
-a
-{
+a {
     text-decoration: none;   
 }
 
-a:hover
-{
+a:hover {
     color: orange;  
 }
 
-.imgHead2
-{
+.imgHead2 {
     width: 35%;
     float: right;
 }
 
-.SecuImg
-{
+.SecuImg {
     width: 50%;
     height: auto;
     text-align: center;
     display: inline-block;
 }
 
-.LogImg
-{
+.LogImg {
     width: 50%;
     height: auto;
     vertical-align: text-top;
@@ -119,134 +103,124 @@ a:hover
     display: inline-block;
 }
 
-.txt2
-{
+.txt2 {
     width: 65%;
     height: auto;
     float: right;
 }
 
-.txt3
-{
+.txt3 {
     width: 65%;
     height: auto;
     float: left;
 }
 
-.entrepotImg 
-{
+.entrepotImg {
     margin-top: 8%;
     width: 100%;
     height: 85%;
 }
 
-.miniTitle
-{
+.miniTitle {
+    margin-left: 2%;
     background-color: black;
     color: white;
     font-weight: bold;
     border: 5px solid black;
 }
 
-.top
-{
-    padding-top: 15%; 
-    padding-bottom: 85%;
-}
-
-.txtCenter
-{
+.txtCenter {
     text-align: center;
     vertical-align: 50%;
 }
 
-.size
-{
+.size {
     width: 100%;
-    height: auto; 
     margin-top: 5%;
 }
 
- .txt
-{
+.txt {
     font-size: 30px;
 }
 
-.img
-{
+.img {
     width: 75%;
     height: auto; 
 }
 
-.right
-{
+.right {
     width: 30%;
     height: auto;
     float: right;
 }
 
-.center 
-{
+.center {
     width: 30%;
     height: auto;
     float: left;
 }
 
-.left
-{
+.left {
     font-weight: bolder;
     text-align: center;
     width: 40%;
     height: auto;
     float: left;
-    font-size: 40px;
+    font-size: 30px;
 }
 
-.slogan 
-{
+.slogan {
     display: inline-block;
     
 }
 
-.logistique 
-{
-    padding-top: 10%;
+.logistique {
+    padding-top: 15%;
     padding-bottom: 10%;
+    font-size: 20px;
     width: 48%;
     float: right;
 }
 
-.equipe 
-{
+.equipe {
     padding-top: 10%;
     padding-bottom: 10%;
     width: 48%;
     float: left;
 }
 
-.space2
-{
+.space2 {
     padding-top: 10%;
     padding-bottom: 10%;
     width: 4%;
     float: right;   
 }
 
-#concept, #societe, #produit, #contact 
-{
+#concept, #societe, #produit, #contact {
     margin-top: 0%;
     margin-bottom: 100%;
+    display: block;
+    overflow: hidden;
 }
 
-.trombi 
-{
+.trombi {
     width: 100%;
     background-color: white;
+    float: left;
+    margin-left: 5%;
+    margin-top: 5px;
+    text-align: center;
 }
 
-.trombidiv 
-{
-    background-color: white;
+.trombidivspec {
+    float: left;
+    width: 5%;
+    margin-left: 5%;
+    margin-top: 5px;
+    text-align: center;
+}
+
+.trombidiv {
     float: left;
     width: 20%;
     margin-left: 5%;
@@ -254,32 +228,49 @@ a:hover
     text-align: center;
 }
 
-#market, #design, #dev 
-{
+.market, .design, .dev {
     overflow: hidden;
+    display: block;
 }
 
-.name
-{
+.name {
     display: block;
     margin: auto;
-    width: auto;
+    width: 120px;
     text-align: center;
     background-color: black;
     color: white;
     padding: 3px;
 }
 
-.visages 
-{
+.visages {
     padding-left: 17%;
     background-color: white;
     display: block;
 }
 
-.visages2 
-{
+.visages2 {
     padding-left: 27%;
 
 }
 
+.footer {
+    padding-top: 35px;
+    width: 100%;
+    background-color: #e6e6e6;
+    overflow: hidden;
+    font-size: 150%;
+}
+ 
+.backup {
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+    font-size: 80%;
+    color: #f2612a;
+}
+ 
+.blockfooter {
+    height: 100%;
+    width: 500px;
+}

@@ -7,6 +7,10 @@ body {
 
 }
 
+<<<<<<< HEAD
+.header 
+{
+=======
 #page {
         margin: 0 auto; 
         width: 100%;
@@ -15,6 +19,7 @@ body {
 }
 
 .header {
+>>>>>>> 743cd2c254897fa3924164288567c1d5bcef96e5
     position: absolute;
     top: 0;
     left: 0;
@@ -129,7 +134,18 @@ a:hover {
     border: 5px solid black;
 }
 
+<<<<<<< HEAD
+.top
+{
+    padding-top: 8.5%; 
+    padding-bottom: 91.5%;
+}
+
+.txtCenter
+{
+=======
 .txtCenter {
+>>>>>>> 743cd2c254897fa3924164288567c1d5bcef96e5
     text-align: center;
     vertical-align: 50%;
 }

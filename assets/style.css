@@ -31,9 +31,18 @@ body {
     font-size: 150%;
 }
 
+#header {
+    
+}
+
 .imgHead {
     width: 35%;
     float: left;
+}
+.imgHead2 {
+    display: block;
+    width: 55%;
+    clear: left;
 }
 
 
@@ -149,10 +158,25 @@ body {
 
 .visages2 {
     padding-left: 27%;
-<<<<<<< HEAD
 }
 
-=======
-    background-color: white;
+.footer {
+    padding-top: 35px;
+    width: 100%;
+    background-color: #e6e6e6;
+    overflow: hidden;
+    font-size: 150%;
 }
->>>>>>> 80e8547b36fd943d366b6c91ee95fc6a2b8bb8b1
+
+.backup {
+    display: inline-block;
+    float: left;
+    margin-left: 10%;
+    font-size: 80%;
+    color: #f2612a;
+}
+
+.blockfooter {
+    height: 100%;
+    width: 500px;
+}
